@@ -16,10 +16,7 @@ public class Log {
     public String hint = "";
 
     public Log() {
-
-
-
-
+        //war noch nicht da.
     }
 
 
