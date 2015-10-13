@@ -1,0 +1,11 @@
+N=4
+0815|René Puf
+0954|Stefan Haussmann
+5632|Thomas Ott
+1111|H2DC
+
+N=4
+2368|Bob Baumeister
+4568|Lucky Luke
+7834|Darth Vader
+6982|Barbie

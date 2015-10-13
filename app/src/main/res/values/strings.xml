@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">RPSTAMP</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_save">Save</string>
+    <string name="action_load">Load</string>
+    <string name="file_name_worker_list">workerlist.json</string>
+
+    // HomeScreen
+
+    //ActionBar
+    <string name="action_add_worker">Arbeiter Hinzufügen</string>
+    <string name="action_del_worker">Arbeiter Löschen</string>
+    <string name="action_change_account">Konto wechseln</string>
+
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+
+    // Worker
+    <string name="btn_worker_start">Start</string>
+    <string name="btn_worker_stop">Stop</string>
+
+
+    <!-- Strings related to login -->
+    <string name="txt_load_found_worker_list">Arbeiter Liste gefunden und geladen.</string>
+    <string name="txt_load_found_worker_list_without_logs">Arbeiter Liste gefunden und geladen. Zeiten zurück gesetzt.</string>
+    <string name="txt_load_do_not_found_worker_list">Es wurde keine Arbeiter Liste gefunden.</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Anmelden</string>
+    <string name="txt_Login">Anmeldung</string>
+    <string name="file_name_login">login.json</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="title_activity_edit_worker">Bearbeite Arbeiter</string>
+
+</resources>
