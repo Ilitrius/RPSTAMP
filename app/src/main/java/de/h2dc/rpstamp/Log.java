@@ -16,8 +16,6 @@ public class Log {
     public String hint = "";
 
     public Log() {
-
-
     }
 
 
